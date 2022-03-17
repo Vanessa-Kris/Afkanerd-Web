@@ -1,6 +1,6 @@
 
 body{
-    background-image: url(earth.JPG);
+    background-color: #495057;
     background-position: center;
     background-size: cover;
     height: 95vh;
@@ -12,7 +12,7 @@ body{
 }
 
 .glass-effect{ 
-    background-image: url(earth.JPG);
+    background-color: #495057;
     background-position: center;
     background-size: cover;
     
@@ -20,8 +20,8 @@ body{
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 
-    width: 920px;
-    height: 530px;
+    width: 1300px;
+    height: 600px;
     background: radial-gradient(rgba(255,255,255,0.6));
     border-radius: 20px;
     box-shadow: 5px 10px 20px rgba(0,0,0,0.6);
