@@ -8,6 +8,7 @@ body{
     align-items: center;
     justify-content: center;
     backdrop-filter:blur(3px);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .glass-effect{ 
@@ -17,7 +18,7 @@ body{
     
     margin: 0;
     padding: 0;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 
     width: 920px;
     height: 530px;
@@ -28,8 +29,8 @@ body{
 }
 
 .logo{
-    color: white; 
-    font-size: 35px;
+    height: 150px;
+    width: 200px;
     float: left;
     cursor: pointer;
 }
@@ -64,6 +65,7 @@ img{
 
 
 .info{
+    font-family: Arial, Helvetica, sans-serif;
     margin-left: 30px;
     padding: 18px;
 }
@@ -79,7 +81,7 @@ button{
     background-color: #000;
     border: 0;
     outline: 0;
-    font-family: cursive;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border-radius: 5px; 
     transition: 0.2s ease;
 }
